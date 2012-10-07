@@ -1,4 +1,4 @@
-tiny
+Tiny
 ====
 
-tiny bits of code
+tiny bits of Scala code
