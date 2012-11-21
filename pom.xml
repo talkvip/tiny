@@ -17,16 +17,17 @@
   </licenses>
   <properties>
     <scala.version>2.9.2</scala.version>
+    <slf4j.version>1.6.4</slf4j.version>
+    <logback.version>1.0.7</logback.version>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
     <encoding>UTF-8</encoding>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <slf4j.version>1.6.4</slf4j.version>
-    <logback.version>1.0.7</logback.version>
   </properties>
   <modules>
     <module>features</module>
     <module>dao</module>
+    <module>wicket-ehcache</module>
   </modules>
   <scm>
     <connection>scm:git:git://github.com/alexparvulescu/tiny</connection>
