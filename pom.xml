@@ -16,7 +16,7 @@
     </license>
   </licenses>
   <properties>
-    <scala.version>2.9.2</scala.version>
+    <scala.version>2.10.0</scala.version>
     <slf4j.version>1.6.4</slf4j.version>
     <logback.version>1.0.7</logback.version>
     <maven.compiler.source>1.6</maven.compiler.source>
